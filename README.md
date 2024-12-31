@@ -19,4 +19,11 @@ Before running the script, ensure you have the following Python libraries instal
 - Python 3.x
 - `requests` library
 - `beautifulsoup4` library
+  
+### Install Dependencies
+
+You can install the required libraries using the following command:
+
+```bash
+pip install requests beautifulsoup4
 
